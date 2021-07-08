@@ -19,3 +19,14 @@ Tail-Free|Generator Setting|Predictor
 Grammar/Style/Spelling|Your writing can have no spelling or grammar mistakes but still be awkward, clumsy, and hard to read. Style can make your writing easier and more enjoyable to read. Style covers issues like repeated sentence starts, clunky word order and phrasing, hidden verbs, and more.|Higher is better
 Readability Grade|A readability score is a measure of how easy your text is to read. Your readability score shows what grade level of students could understand and engage with your writing. For instance, a score of 7 means that seventh-grade students could read your work.|Depends (see explanation below)
 Glue Index|Glue words are words that are common, low-quality, or nondescript, and too many of them can make your sentences "sticky". Sticky sentences slow your reader down; try to avoid them.|Lower is better
+
+## Information on Readability Grade
+Data conclusions are still ongoing, so conclusions at this point are  tentative. However, given the data so far readability seems to be emerging as the most interesting target variable that can be influenced by generator settings.
+
+Information on readability grade (provided by Basileus):
+Best-selling fiction is in the range of 4-9 on Readability Grade (Randomness 0.55-0.85, TFS 0.6-0.65)
+
+**Readability Grade 8-9: "Complex"** *(James Patterson, F. Scott Fitzgerald, Leo Tolstoy)*: relatively complex language, variety in word choice; can sometimes be abstruse\
+**Readability Grade 7: "Poetic"** *(J.R.R. Tolkien, Dan Brown, Thomas Pynchon)*: enough complexity to have clever turns of phrase, without having to stop and think/reread\
+**Readability Grade 6: "Casual"** *(Hunter S. Thompson, Steven King, Stephanie Meyer)*: flows well, easy to read large quantities of without getting tired\
+**Readability Grade 4-5: "Punchy"** *(Ernest Hemingway, Cormac McCarthy, Susan Collins)*: concise, punchy language with straightforward sentence structure and word choice
