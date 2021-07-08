@@ -14,8 +14,8 @@ Data can be obtained [here](https://docs.google.com/spreadsheets/d/1a-oHJdBUvwTU
 
 Variable|Meaning|Target
 -|-|-
-Randomness|Generator Setting|Independent Variable
-Tail-Free|Generator Setting|Independent Variable
+Randomness|Generator Setting|Predictor
+Tail-Free|Generator Setting|Predictor
 Grammar/Style/Spelling|Your writing can have no spelling or grammar mistakes but still be awkward, clumsy, and hard to read. Style can make your writing easier and more enjoyable to read. Style covers issues like repeated sentence starts, clunky word order and phrasing, hidden verbs, and more.|Higher is better
 Readability Grade|A readability score is a measure of how easy your text is to read. Your readability score shows what grade level of students could understand and engage with your writing. For instance, a score of 7 means that seventh-grade students could read your work.|Depends (see explanation below)
 Glue Index|Glue words are words that are common, low-quality, or nondescript, and too many of them can make your sentences "sticky". Sticky sentences slow your reader down; try to avoid them.|Lower is better
