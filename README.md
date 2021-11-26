@@ -7,6 +7,8 @@ Initial data collection from Basileus was done by varying what NAI calls "random
 This data was rated by Basileus using [ProWritingAid](https://prowritingaid.com/) on several automated ratings for text complexity and quality. For readability the [Flesch-Kincaid grade level](https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests#Flesch%E2%80%93Kincaid_grade_level) was used. Short explanations for other measures is provided below.
 
 Data can be obtained [here](https://docs.google.com/spreadsheets/d/1a-oHJdBUvwTUam7Y9U9vqEvrcd4fK2q3oqm3H4iI4G0/edit#gid=116999801)
+Analysis can be seen [here](https://github.com/MWiechmann/NAI_gen_set_experiment/blob/main/Analyzing%20Data%20from%20Basileus'%20NAI%20Generation%20Setting%20Experiment.ipynb)
+Guidelines based on the results for the best settings to achieve certain text complexity can be found [here](https://justpaste.it/7zvmd)
 
 ## Variables in the dataset
 
