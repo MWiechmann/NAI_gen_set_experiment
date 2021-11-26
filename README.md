@@ -8,8 +8,6 @@ This data was rated by Basileus using [ProWritingAid](https://prowritingaid.com/
 
 Data can be obtained [here](https://docs.google.com/spreadsheets/d/1a-oHJdBUvwTUam7Y9U9vqEvrcd4fK2q3oqm3H4iI4G0/edit#gid=116999801)
 
-*Note that data collection for this project is still ongoing so this project is still work in progress!*
-
 ## Variables in the dataset
 
 Variable|Meaning|Target
